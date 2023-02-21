@@ -1,5 +1,0 @@
-<launch>
-	joy joy_node
-	r1video 2wheels
-</launch>
-
